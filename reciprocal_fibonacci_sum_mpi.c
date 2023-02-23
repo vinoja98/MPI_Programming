@@ -1,4 +1,4 @@
-//mpicc -g -Wall -o mpi_fib reciprocal_prime_sum_mpi.c
+//mpicc -g -Wall -o mpi_fib reciprocal_fibonacci_sum_mpi.c
 //mpiexec -n 4 ./mpi_fib
 
 #include <mpi.h>

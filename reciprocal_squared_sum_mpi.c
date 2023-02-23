@@ -1,4 +1,4 @@
-//mpicc -g -Wall -o mpi_square reciprocal_square_sum_mpi.c
+//mpicc -g -Wall -o mpi_square reciprocal_squared_sum_mpi.c
 //mpiexec -n 4 ./mpi_square
 
 #include <mpi.h>
